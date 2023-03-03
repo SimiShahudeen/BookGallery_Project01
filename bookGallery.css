@@ -1,0 +1,56 @@
+body{
+  background-color: black;
+  text-align: center;
+
+}
+a{
+  text-decoration: none;
+}
+.col{
+  height: 460px;
+  width: 202px;
+  /* border: rgb(226, 222, 222) 8px solid; */
+  /* background-color: rgba(255, 255, 255, 0.897); */
+  border: rgba(255, 255, 255, 0.897) 2px solid;;
+  float: left;
+  margin: 10px;
+  padding: 8px;
+
+}
+.book_name{
+font-size: large;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  margin: 2%;
+}
+.page_title{
+  color: white;
+  font-family: cursive;
+  /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  margin: 2%; */
+  font-size: xx-large;
+  /* text-align: center; */
+}
+img{
+   width: 100%;/* width: 90%; */
+  height: 300px;
+  padding: 1px;
+  /* border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px; */
+}
+.ex_col{
+  border: white 8px solid;
+  background-color: rgba(255, 255, 255, 0.932);
+  height:410px ;
+}
+h5{
+  /* text-align: justify; */
+}
+h4, h5{
+  display: inline;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  margin: 2%;
+
+}
+button{
+ border-radius: 20px;
+ border: grey 1px solid;
+ background-color: white;
+ margin-top: 12px;
+}
